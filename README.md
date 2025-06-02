@@ -38,7 +38,7 @@ This project uses machine learning techniques to detect fraudulent credit card t
 
 2. Run the Jupyter notebook:
    ```bash
-   jupyter notebook Final_creditcard_fraud_detection.ipynb
+   jupyter notebook Creditcard_fraud_detection.ipynb
    ```
 
 ---
