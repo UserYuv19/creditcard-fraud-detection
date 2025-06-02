@@ -32,16 +32,11 @@ This project uses machine learning techniques to detect fraudulent credit card t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/UserYuv19/creditcard-fraud-detection.git
+   cd creditcard-fraud-detection
    ```
 
-2. Install required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook:
+2. Run the Jupyter notebook:
    ```bash
    jupyter notebook Final_creditcard_fraud_detection.ipynb
    ```
