@@ -69,7 +69,7 @@ This project uses machine learning techniques to detect fraudulent credit card t
 ## 🧑‍💻 Author
 
 - Yuvaraj K (https://github.com/UserYuv19)
-
+- S Varsha (https://github.com/S-Varsha08)
 ---
 
 ## ⚠️ Disclaimer
